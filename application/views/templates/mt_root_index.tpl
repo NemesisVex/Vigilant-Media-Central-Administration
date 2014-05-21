@@ -1,36 +1,30 @@
-<p>
-<strong>Movable Type administration</strong><br>
-<a href="/cgi-bin/mt/mt.cgi">Movable Type administration</a><br>
-<a href="/mt/docs/mtmanual.html">Movable Type documentation</a><br>
-</p>
+<h4>Member administration</h4>
 
-<p>
-<strong>Member administration</strong><br>
-<a href="/index.php/members/">Member administration</a><br>
-<a href="/index.php/members/review/">New member review</a><br>
-</p>
+<ul>
+	<li><a href="/index.php/members/">Member administration</a></li>
+	<li><a href="/index.php/members/review/">New member review</a></li>
+</ul>
 
-<p>
-<strong>Site administration</strong><br>
-<a href="/index.php/mt/ep4/">Observant Records</a><br>
-<a href="/index.php/mt/musicwhore/">Musicwhore.org</a><br>
-<a href="/index.php/mt/filmwhore/">Filmwhore.org</a><br>
-<a href="/index.php/mt/austinstories/">Austin Stories</a><br>
-<a href="/index.php/mt/ddn/">Duran Duran Networks</a><br>
-</p>
+<h4>Site administration</h4>
 
-<p><strong>Ecommerce administration</strong><br>
-<a href="/index.php/ecommerce/merchants/">Administer e-commerce merchants</a><br>
-<a href="/index.php/ecommerce/asin/">Amazon ASIN/UPC lookup</a><br>
-</p>
+<ul>
+	<li><a href="/index.php/mt/musicwhore/">Musicwhore.org</a></li>
+	<li><a href="/index.php/mt/filmwhore/">Filmwhore.org</a></li>
+	<li><a href="/index.php/mt/austinstories/">Austin Stories</a></li>
+	<li><a href="/index.php/mt/ddn/">Duran Duran Networks</a></li>
+</ul>
 
-<p><strong>External administration</strong><br>
-<a href="http://mysql.vigilantmedia.com/">MySQL production server</a><br>
-</p>
+<h4>Ecommerce administration</h4>
 
-<p><strong>Miscellaneous</strong><br>
-<a href="/index.php/mt/php_info/">phpinfo()</a><br>
-<a href="/index.php/mt/user_log/">User log</a><br>
-<a href="/index.php/mt/audio_log/">Audio log</a><br>
-{*<a href="/index.php/mt/unicode/">Convert Japanese text</a><br>*}
-</p>
+<ul>
+	<li><a href="/index.php/ecommerce/merchants/">Administer e-commerce merchants</a></li>
+	<li><a href="/index.php/ecommerce/asin/">Amazon ASIN/UPC lookup</a></li>
+</ul>
+
+<h4>Miscellaneous</h4>
+
+<ul>
+	<li><a href="/index.php/mt/php_info/">phpinfo()</a></li>
+	<li><a href="/index.php/mt/user_log/">User log</a></li>
+	<li><a href="/index.php/mt/audio_log/">Audio log</a></li>
+</ul>
